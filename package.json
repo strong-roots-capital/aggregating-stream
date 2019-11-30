@@ -1,6 +1,6 @@
 {
     "name": "@strong-roots-capital/aggregating-stream",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "Transform stream that aggregates elements into larger chunks",
     "main": "dist/src/aggregating-stream.js",
     "types": "dist/src/aggregating-stream.d.ts",
